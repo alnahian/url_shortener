@@ -22,7 +22,7 @@
       {{Form::open(array('url'=>'/','method'=>'post'))}}
       {{Form::text('link',Input::old('link'), 
         array('placeholder'=> 
-        'Insert your URL here and press enter!'))}}
+        'Insert your URL here and press enter! ( e.g. http://www.facebook.com )'))}}
       {{Form::close()}}
     </div>
   </body>
