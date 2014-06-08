@@ -1,5 +1,5 @@
 # URL Shortener app
-### This application helps you shorten you urls
+### This application helps you shorten your urls
 ## Technology used -> Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
